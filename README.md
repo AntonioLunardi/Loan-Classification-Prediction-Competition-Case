@@ -1,2 +1,5 @@
 # Bank-Loan-Analisys
-Anonymous 'Universal Bank' data set from Kaggle. ML classification models are used in order to predict if loan are apporoved or not based on customers's data.
+
+Dataset link: https://www.kaggle.com/datasets/sriharipramod/bank-loan-classification/
+
+This description will have more details, as soon as the project be complete
