@@ -2,7 +2,7 @@
 
 # Loan-Prediction-Practice-AV-Competition-Case
 
-Dataset link:
+Dataset link: https://www.kaggle.com/datasets/shaijudatascience/loan-prediction-practice-av-competition
 
 ## About Dataset
 Context
