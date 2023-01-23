@@ -18,9 +18,6 @@ File Name : train_csv
 This dateset was downloaded from AV website for practicing the eligibility of granting Home loan.For further details please visit the website.
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement .
 
-Finally submit the submission file in csv format contains two variable .
-1.Loan_ID : Unique Loan ID of Customers.
-2.Loan_Status : loan Approved (Y/N)
 
 ## Inspiration
 To build a binary classification model to predict the outcome.
