@@ -1,4 +1,4 @@
-## Project is still in progress. Detais about resolution will be in this file, as soon as the work be finished
+## Project is still in progress. Details about the resolution will be in this file, as soon as the work be finished
 
 # Loan-Prediction-Practice-AV-Competition-Case
 
