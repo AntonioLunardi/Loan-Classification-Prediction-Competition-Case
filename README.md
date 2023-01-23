@@ -1,4 +1,4 @@
-# Bank-Loan-Analisys
+# Bank-Loan-Analysis
 
 Dataset link: https://www.kaggle.com/datasets/sriharipramod/bank-loan-classification/
 
