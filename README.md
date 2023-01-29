@@ -9,12 +9,6 @@ Context
 Objective of the work is to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 
 ## Content
-The data repository contains two files one is *train_csv * to train the model and the other is *test.csv * to predict the outcome from the trained dateset.
-
-File Name : train_csv
-
-
-
 This dateset was downloaded from AV website for practicing the eligibility of granting Home loan.For further details please visit the website.
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement .
 
