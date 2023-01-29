@@ -2,8 +2,6 @@
 
 # Loan-Prediction-Practice-AV-Competition-Case
 
-Dataset link: https://www.kaggle.com/datasets/shaijudatascience/loan-prediction-practice-av-competition
-
 ## About Dataset
 Context
 Objective of the work is to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
