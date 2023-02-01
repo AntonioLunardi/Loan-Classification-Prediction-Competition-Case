@@ -1,20 +1,24 @@
-## Project is still in progress. Details about the resolution will be in this file, as soon as the work be finished
+# Loan Classification Prediction Competition Case **Project is still in progress...**
+Objective of the work is to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.
 
-# Loan-Prediction-Practice-AV-Competition-Case
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Loan-Classification-Prediction-Competition-Case**
+| :label: Tecnologias | Python, pandas, scikit-learn
+| :fire: Desafio     | https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement 
+
 
 ![](/loan.jpg#vitrinedev)
 
 ## About Dataset
 Context
-Objective of the work is to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
+These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 
 ## Content
 This dateset was downloaded from AV website for practicing the eligibility of granting Home loan.For further details please visit the website.
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement .
 
-
-## Inspiration
+## Methodology
 To build a binary classification model to predict the outcome.
 Perform Exploratory Data Analysis (EDA) and Data PreProcessing.
-Model building and Validation.
-Perform Feature engineering for better accuracy.
+Model building and Validation. Perform Feature engineering for better accuracy.
