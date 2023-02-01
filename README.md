@@ -13,7 +13,7 @@ Objective of the work is to automate the loan eligibility process (real time) ba
 
 ## About Dataset
 Context
-These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
+Features present in the bank data frame are customers's gender, marital status, level of education, number of dependents, income, loan amount, credit history and others.
 
 ## Content
 This dateset was downloaded from AV website for practicing the eligibility of granting Home loan.For further details please visit the website.
@@ -21,5 +21,5 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-ii
 
 ## Methodology
 To build a binary classification model to predict the outcome.
-Perform Exploratory Data Analysis (EDA) and Data PreProcessing.
-Model building and Validation. Perform Feature engineering for better accuracy.
+Perform exploratory data analysis (EDA) and data preprocessing.
+Model building and validation. Perform feature engineering for better accuracy.
