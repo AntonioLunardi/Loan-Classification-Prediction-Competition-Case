@@ -4,9 +4,9 @@ Objective of the work is to automate the loan eligibility process (real time) ba
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Name        | **Loan-Classification-Prediction-Competition-Case**
-| :label: Technologies | scikit-learn, numpy, matplotlib, pandas, Python
-| :fire: Challenge     | https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement 
+| :sparkles: Nome        | **Loan-Classification-Prediction-Competition-Case**
+| :label: Tecnologias | scikit-learn, numpy, matplotlib, pandas, Python
+| :fire: Desafio     | https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement 
 
 
 ![](/loan.jpg#vitrinedev)
