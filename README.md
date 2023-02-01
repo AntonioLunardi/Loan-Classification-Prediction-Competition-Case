@@ -1,4 +1,5 @@
-# Loan Classification Prediction Competition Case **Project is still in progress...**
+### **Project is still in progress...**
+# Loan Classification Prediction Competition Case
 Objective of the work is to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.
 
 | :placard: Vitrine.Dev |     |
