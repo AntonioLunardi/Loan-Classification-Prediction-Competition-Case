@@ -6,7 +6,7 @@ Objective of the work is to automate the loan eligibility process (real time) ba
 | -------------  | --- |
 | :sparkles: Nome        | **Loan-Classification-Prediction-Competition-Case**
 | :label: Tecnologias | scikit-learn, numpy, matplotlib, pandas, Python
-| :fire: Desafio     | https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement 
+| :fire: Desafio     | [Problem statement link](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement)
 
 
 ![](/loan.jpg#vitrinedev)
@@ -22,4 +22,5 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-ii
 ## Methodology
 To build a binary classification model to predict the outcome.
 Perform exploratory data analysis (EDA) and data preprocessing.
-Model building and validation. Perform feature engineering for better accuracy.
+Model building and  cross validation. 
+Perform feature engineering hiperparameter optimization for better accuracy.
