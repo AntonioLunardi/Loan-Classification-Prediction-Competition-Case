@@ -23,4 +23,4 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-ii
 To build a binary classification model to predict the outcome.
 Perform exploratory data analysis (EDA) and data preprocessing.
 Model building and  cross validation. 
-Perform feature engineering hiperparameter optimization for better accuracy.
+Perform feature engineering and hiperparameter optimization for better accuracy.
