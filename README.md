@@ -20,7 +20,7 @@ This dateset was downloaded from AV website for practicing the eligibility of gr
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement .
 
 ## Methodology
-To build a binary classification model to predict the outcome.
+Build a binary classification model to predict the outcome.
 Perform exploratory data analysis (EDA) and data preprocessing.
 Model building and  cross validation. 
 Perform feature engineering and hiperparameter optimization for better accuracy.
