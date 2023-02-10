@@ -21,8 +21,8 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-ii
 ## Methodology
 Build a binary classification model to predict the outcome:
 - Exploratory data analysis (EDA).
-- Data preprocessing.
 - Feature engineering.
+- Data preprocessing.
 - Various models building and cross validation.
 - Performance metric selection.
 - Hiperparameter optimization.
