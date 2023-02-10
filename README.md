@@ -16,12 +16,14 @@ Features present in the bank data frame are customers's gender, marital status, 
 
 ## Content
 This dateset was downloaded from AV website for practicing the eligibility of granting Home loan.For further details please visit the website.
-https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement .
+https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement.
 
 ## Methodology
 Build a binary classification model to predict the outcome:
-- Exploratory data analysis (EDA) 
+- Exploratory data analysis (EDA).
 - Data preprocessing.
 - Feature engineering.
-- Model building and cross validation. 
+- Various models building and cross validation.
+- Performance metric selection.
 - Hiperparameter optimization.
+
