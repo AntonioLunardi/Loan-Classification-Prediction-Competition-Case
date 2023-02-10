@@ -1,6 +1,6 @@
 ### **Project is still in progress...**
 # Loan Classification Prediction Competition Case
-Objective of the work is to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.
+The objective of the work is to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -12,7 +12,6 @@ Objective of the work is to automate the loan eligibility process (real time) ba
 ![](/loan.jpg#vitrinedev)
 
 ## About Dataset
-Context
 Features present in the bank data frame are customers's gender, marital status, level of education, number of dependents, income, loan amount, credit history and others.
 
 ## Content
@@ -20,7 +19,8 @@ This dateset was downloaded from AV website for practicing the eligibility of gr
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement .
 
 ## Methodology
-Build a binary classification model to predict the outcome.
-Perform exploratory data analysis (EDA) and data preprocessing.
-Model building and  cross validation. 
-Perform feature engineering and hiperparameter optimization for better accuracy.
+Build a binary classification model to predict the outcome:
+- Perform exploratory data analysis (EDA) and data preprocessing.
+- Feature engineering.
+- Model building and cross validation. 
+- Perform hiperparameter optimization for better accuracy.
