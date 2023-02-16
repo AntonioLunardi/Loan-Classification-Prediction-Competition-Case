@@ -15,7 +15,7 @@ The objective of the work is to automate the loan eligibility process (real time
 Features present in the bank data frame are customers's gender, marital status, level of education, number of dependents, income, loan amount, credit history and others.
 
 ## Content
-This dateset was downloaded from AV website for practicing the eligibility of granting Home loan.For further details please visit the website.
+This dateset was downloaded from AV website for practicing the eligibility of granting home loan. For further details please visit the website.
 https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement.
 
 ## Methodology
