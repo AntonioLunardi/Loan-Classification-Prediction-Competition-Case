@@ -26,4 +26,4 @@ Build a binary classification model to predict the outcome:
 - Various models building and cross validation.
 - Performance metric selection.
 - Hiperparameters tuning.
-
+- Model selection.
